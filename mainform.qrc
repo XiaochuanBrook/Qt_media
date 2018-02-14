@@ -1,0 +1,34 @@
+<RCC>
+<qresource>
+    <file>icon/zhbit.jpeg</file>
+    <file>icon/mp3_icon.png</file>
+    <file>icon/imagebrowser_icon.png</file>
+    <file>icon/avi_icon.png</file>
+    <file>icon/daytime.png</file>
+    <file>icon/text_icon.png</file>
+    <file>icon/quit_icon.png</file>
+    <file>images/actualsize.png</file>
+    <file>images/fitwindow.png</file>
+    <file>images/present.png</file>
+    <file>images/close.png</file>
+    <file>images/rotate_left.png</file>
+    <file>images/rotate_right.png</file>
+    <file>images/zoomin.png</file>
+    <file>images/zoomout.png</file>
+    <file>images/next.png</file>
+    <file>images/previous.png</file>
+    <file>images/open.png</file>
+    <file>images/copy.png</file>
+    <file>images/cut.png</file>
+    <file>images/document.png</file>
+    <file>images/icon.png</file>
+    <file>images/new.png</file>
+    <file>images/paste.png</file>
+    <file>images/save.png</file>
+    <file>images/play.png</file>
+    <file>images/pause.png</file>
+    <file>images/quit.png</file>
+    <file>images/stop.png</file>
+
+</qresource>
+</RCC>
